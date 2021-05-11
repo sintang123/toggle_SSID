@@ -1,3 +1,5 @@
+#Author: Tang Sing Yuen (sintang@cisco.com)
+
 from ncclient import manager
 import xmltodict
 import xml.dom.minidom
